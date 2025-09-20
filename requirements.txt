@@ -4,6 +4,6 @@ langchain
 langchain-core
 langchain-community
 langchain-ollama
-faiss-cpu>
+faiss-cpu
 pypdf2
 tqdm
