@@ -1,4 +1,4 @@
-# Simple RAG with Ollama, FAISS, and Streamlit
+# DocuSense with Ollama, FAISS, and Streamlit
 
 This project implements a simple Retrieval-Augmented Generation (RAG) system using:
 
